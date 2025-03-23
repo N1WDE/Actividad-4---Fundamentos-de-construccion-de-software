@@ -1,5 +1,4 @@
 # Actividad 4 Fundamentosde construccion de software
-El proyecto es una aplicación web desarrollada en PHP que permite a los usuarios autenticarse y acceder a diferentes funcionalidades según su rol:
 
 # Sistema de Gestión de Productos en PHP
 
